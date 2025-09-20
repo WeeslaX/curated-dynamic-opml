@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>AI/ML/Data Science News Sources</title>
+        <dateCreated>Sat, 20 Sep 2025 12:00:00 GMT</dateCreated>
+        <dateModified>Sat, 20 Sep 2025 12:00:00 GMT</dateModified>
+        <ownerName>AI News Aggregator</ownerName>
+        <docs>Comprehensive collection of RSS feeds for AI</docs>
+    </head>
+    <body>
+        
+        <!-- AI News & General Coverage -->
+        <outline text="AI News &amp; General Coverage" title="AI News &amp; General Coverage">
+            <outline text="AI News" title="AI News" type="rss" xmlUrl="https://www.artificialintelligence-news.com/feed/rss/" htmlUrl="https://www.artificialintelligence-news.com/" description="Artificial Intelligence News"/>
+            <outline text="AI Business" title="AI Business" type="rss" xmlUrl="https://aibusiness.com/rss.xml" htmlUrl="https://aibusiness.com" description="AI Business news and analysis"/>
+        </outline>
+
+        <!-- Company &amp; Research Lab Blogs -->
+        <outline text="Company &amp; Research Lab Blogs" title="Company &amp; Research Lab Blogs">
+            <outline text="OpenAI Blog" title="OpenAI Blog" type="rss" xmlUrl="https://openai.com/blog/rss/" htmlUrl="https://openai.com/blog" description="The OpenAI blog"/>
+            <outline text="DeepMind Blog" title="DeepMind Blog" type="rss" xmlUrl="https://deepmind.com/blog/feed/basic/" htmlUrl="https://www.deepmind.com" description="DeepMind research breakthroughs"/>
+            <outline text="Hugging Face Blog" title="Hugging Face Blog" type="rss" xmlUrl="https://huggingface.co/blog/feed.xml" htmlUrl="https://huggingface.co/blog" description="The Hugging Face blog"/>
+            <outline text="NVIDIA Technical Blog" title="NVIDIA Technical Blog" type="rss" xmlUrl="https://developer.nvidia.com/blog/feed" htmlUrl="https://developer.nvidia.com/blog" description="NVIDIA developer content"/>
+            <outline text="Microsoft Research" title="Microsoft Research" type="rss" xmlUrl="https://www.microsoft.com/en-us/research/feed/" htmlUrl="https://www.microsoft.com/en-us/research/" description="Microsoft Research"/>
+        </outline>
+
+        <!-- Reddit Communities -->
+        <outline text="Reddit Communities" title="Reddit Communities">
+            <outline text="r/artificial" title="r/artificial" type="rss" xmlUrl="https://www.reddit.com/r/artificial/hot.rss" htmlUrl="https://www.reddit.com/r/artificial" description="Reddit's home for AI"/>
+            <outline text="r/ClaudeAI" title="r/ClaudeAI" type="rss" xmlUrl="https://www.reddit.com/r/ClaudeAI/hot.rss" htmlUrl="https://www.reddit.com/r/ClaudeAI" description="Discussion and updates on Claude AI"/>
+            <outline text="r/ChatGPT" title="r/ChatGPT" type="rss" xmlUrl="https://www.reddit.com/r/ChatGPT/hot.rss" htmlUrl="https://www.reddit.com/r/ChatGPT" description="News and discussion on ChatGPT"/>
+            <outline text="r/LocalLLaMA" title="r/LocalLLaMA" type="rss" xmlUrl="https://www.reddit.com/r/LocalLLaMA/hot.rss" htmlUrl="https://www.reddit.com/r/LocalLLaMA" description="Local LLaMA models and related topics"/>
+            <outline text="r/Singularity" title="r/Singularity" type="rss" xmlUrl="https://www.reddit.com/r/singularity/.rss" htmlUrl="https://www.reddit.com/r/singularity" description="Discussions on AI, human enhancement, and the technological singularity"/>
+
+        </outline>
+
+        <!-- Academic &amp; Research -->
+        <outline text="Academic &amp; Research" title="Academic &amp; Research">
+            <outline text="Nature Machine Learning" title="Nature Machine Learning" type="rss" xmlUrl="https://www.nature.com/subjects/machine-learning.rss" htmlUrl="https://www.nature.com/subjects/machine-learning" description="ML research from Nature"/>
+            <outline text="MIT News - Machine Learning" title="MIT News - Machine Learning" type="rss" xmlUrl="https://news.mit.edu/topic/mitmachine-learning-rss.xml" htmlUrl="https://news.mit.edu/topic/mitmachine-learning-rss.xml" description="MIT ML research news"/>
+            <outline text="Berkeley AI Research Blog" title="Berkeley AI Research Blog" type="rss" xmlUrl="https://bair.berkeley.edu/blog/feed.xml" htmlUrl="http://bair.berkeley.edu/blog/" description="BAIR Blog"/>
+            <outline text="Stanford CRFM" title="Stanford CRFM" type="rss" xmlUrl="https://crfm.stanford.edu/feed" htmlUrl="https://crfm.stanford.edu/blog.html" description="Stanford Center for Research on Foundation Models"/>
+            <outline text="CMU Machine Learning Blog" title="CMU Machine Learning Blog" type="rss" xmlUrl="https://blog.ml.cmu.edu/feed" htmlUrl="https://blog.ml.cmu.edu" description="Carnegie Mellon ML blog"/>
+            <outline text="AI Now Institute" title="AI Now Institute" type="rss" xmlUrl="https://ainowinstitute.org/category/news/feed" htmlUrl="https://ainowinstitute.org/category/news" description="AI policy research"/>
+        </outline>
+
+        <!-- Newsletters & Substacks -->
+        <outline text="Newsletters & Substacks" title="Newsletters & Substacks">
+            <outline text="The Rundown AI" title="The Rundown AI" type="rss" xmlUrl="https://rss.beehiiv.com/feeds/2R3C6Bt5wj.xml" htmlUrl="https://www.therundown.ai/" description="AI developments newsletter"/>
+            <outline text="One Useful Thing" title="One Useful Thing" type="rss" xmlUrl="https://www.oneusefulthing.org/feed" htmlUrl="https://www.oneusefulthing.org" description="AI insights by Prof. Ethan Mollick"/>
+            <outline text="Latent Space" title="Latent Space" type="rss" xmlUrl="https://www.latent.space/feed" htmlUrl="https://www.latent.space" description="Productized AI/ML insights"/>
+            <outline text="TheSequence" title="TheSequence" type="rss" xmlUrl="https://thesequence.substack.com/feed" htmlUrl="https://thesequence.substack.com" description="ML and AI developments"/>
+            <outline text="Interconnects" title="Interconnects" type="rss" xmlUrl="https://www.interconnects.ai/feed" htmlUrl="https://www.interconnects.ai" description="AI ideas and research"/>
+        </outline>
+    </body>
+</opml>
